@@ -1,2 +1,2 @@
 # F1
-formula 1 analysis PowerBI dashboard
+formula 1 data analysis PowerBI dashboard
